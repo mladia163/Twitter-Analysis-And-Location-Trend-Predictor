@@ -1,0 +1,1 @@
+text = "C:/xampp/htdocs/my/finalminor/php_tweet_data.txt";
